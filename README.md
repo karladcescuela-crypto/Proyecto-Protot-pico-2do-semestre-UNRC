@@ -8,3 +8,10 @@ La siguiente liga permite visualizar los HTML realizados para el analisis de los
 🔗 **Acceder a al URL:**
 
 [Abrir URL MIAF Oaxaca](https://natytvh.github.io/miaf-oaxaca/)
+
+## Liga cronograma del proyecto
+
+En esta liga se encuentra el cronograma que realizo el equipo.
+
+[Abrir Cronograma equipo 1](https://docs.google.com/spreadsheets/d/13C2gh9wbtgkRniaLfX93XqkJ51TiGtfM2RcqIL6OHwQ/edit?usp=sharing)
+
