@@ -15,3 +15,8 @@ En esta liga se encuentra el cronograma que realizo el equipo.
 
 [Abrir Cronograma equipo 1](https://docs.google.com/spreadsheets/d/13C2gh9wbtgkRniaLfX93XqkJ51TiGtfM2RcqIL6OHwQ/edit?usp=sharing)
 
+## Liga Herramienta Digital
+
+Aqui se encuentra el link para nuestra herramienta digital
+
+[Abrir Herramienta Digital](https://miaf-para-todos.odoo.com/#)
