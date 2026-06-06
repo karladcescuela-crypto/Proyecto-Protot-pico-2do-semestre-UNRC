@@ -3,7 +3,7 @@ En este repositorio se encuentra material que se ocupo para la realizacion del p
 
 ## Liga MIAF Oaxaca
 
-La siguiente liga permite visualizar gráficas de análisis de suelos, recomendaciones de fertilización y conclusiones agronómicas generadas para el sistema MIAF en Oaxaca.
+La siguiente liga permite visualizar los HTML realizados para el analisis de los tipos de suelo, recomendaciones de fertilización y conclusiones agronómicas generadas para el sistema MIAF en Oaxaca.
 
 🔗 **Acceder a al URL:**
 
