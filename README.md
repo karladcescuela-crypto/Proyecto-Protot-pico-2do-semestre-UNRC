@@ -15,3 +15,8 @@ En esta liga se encuentra el cronograma que realizo el equipo.
 
 [Abrir Cronograma equipo 1](https://docs.google.com/spreadsheets/d/13C2gh9wbtgkRniaLfX93XqkJ51TiGtfM2RcqIL6OHwQ/edit?usp=sharing)
 
+## Liga de herramienta digital
+
+Aqui encontraras una pagina web para los agricultores
+
+[Abre aqui](https://miaf-para-todos.odoo.com)
